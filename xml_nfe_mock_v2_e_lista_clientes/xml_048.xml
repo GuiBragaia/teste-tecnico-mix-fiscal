@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000048123456789048</chave>
+
+  <emitente>
+    <nome>Comercial Nova Era</nome>
+    <cnpj>85296374000120</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Loja Independente</nome>
+    <cnpj>77777777000107</cnpj>
+  </destinatario>
+
+  <valorTotal>1806.03</valorTotal>
+  <dataEmissao>2026-05-21</dataEmissao>
+</nfe>

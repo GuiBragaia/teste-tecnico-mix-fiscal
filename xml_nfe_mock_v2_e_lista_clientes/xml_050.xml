@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000050123456789050</chave>
+
+  <emitente>
+    <nome>Comércio Brasil</nome>
+    <cnpj>88888888000108</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Empresa ABC</nome>
+    <cnpj>12345678000199</cnpj>
+  </destinatario>
+
+  <valorTotal>8996.76</valorTotal>
+  <dataEmissao>2026-05-23</dataEmissao>
+</nfe>

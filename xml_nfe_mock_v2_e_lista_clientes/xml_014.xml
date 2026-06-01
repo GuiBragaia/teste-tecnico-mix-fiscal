@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000014123456789014</chave>
+
+  <emitente>
+    <nome>Fornecedor Delta</nome>
+    <cnpj>44444444000104</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Mercado Central</nome>
+    <cnpj>66666666000106</cnpj>
+  </destinatario>
+
+  <valorTotal>4923.35</valorTotal>
+  <dataEmissao>2026-05-15</dataEmissao>
+</nfe>

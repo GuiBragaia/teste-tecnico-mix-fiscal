@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000032123456789032</chave>
+
+  <emitente>
+    <nome>Loja Independente</nome>
+    <cnpj>77777777000107</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Tech Solutions LTDA</nome>
+    <cnpj>74185296000110</cnpj>
+  </destinatario>
+
+  <valorTotal>2943.76</valorTotal>
+  <dataEmissao>2026-05-05</dataEmissao>
+</nfe>

@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000026123456789026</chave>
+
+  <emitente>
+    <nome>Comércio Brasil</nome>
+    <cnpj>88888888000108</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Mercado Central</nome>
+    <cnpj>66666666000106</cnpj>
+  </destinatario>
+
+  <valorTotal>2070.34</valorTotal>
+  <dataEmissao>2026-05-27</dataEmissao>
+</nfe>

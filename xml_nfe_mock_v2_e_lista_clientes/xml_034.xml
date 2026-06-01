@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000034123456789034</chave>
+
+  <emitente>
+    <nome>Loja Independente</nome>
+    <cnpj>77777777000107</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Empresa ABC</nome>
+    <cnpj>12345678000199</cnpj>
+  </destinatario>
+
+  <valorTotal>5697.63</valorTotal>
+  <dataEmissao>2026-05-07</dataEmissao>
+</nfe>

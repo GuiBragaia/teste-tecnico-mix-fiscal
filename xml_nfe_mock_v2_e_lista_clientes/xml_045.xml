@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000045123456789045</chave>
+
+  <emitente>
+    <nome>Comércio Brasil</nome>
+    <cnpj>88888888000108</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Fornecedor Alpha</nome>
+    <cnpj>11111111000101</cnpj>
+  </destinatario>
+
+  <valorTotal>5042.31</valorTotal>
+  <dataEmissao>2026-05-18</dataEmissao>
+</nfe>

@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000044123456789044</chave>
+
+  <emitente>
+    <nome>Fornecedor Beta</nome>
+    <cnpj>22222222000102</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Tech Solutions LTDA</nome>
+    <cnpj>74185296000110</cnpj>
+  </destinatario>
+
+  <valorTotal>7672.84</valorTotal>
+  <dataEmissao>2026-05-17</dataEmissao>
+</nfe>

@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000001123456789001</chave>
+
+  <emitente>
+    <nome>Loja Independente</nome>
+    <cnpj>77777777000107</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Fornecedor Beta</nome>
+    <cnpj>22222222000102</cnpj>
+  </destinatario>
+
+  <valorTotal>9520.89</valorTotal>
+  <dataEmissao>2026-05-02</dataEmissao>
+</nfe>

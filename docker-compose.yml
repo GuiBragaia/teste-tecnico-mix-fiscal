@@ -1,0 +1,40 @@
+services:
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+
+  mock-clientes:
+    build: ./mock-clientes-api
+    ports:
+      - "3002:3002"
+    environment:
+      PORT: 3002
+      MOCK_CLIENTES_PATH: /data/clientes.json
+    volumes:
+      - ./xml_nfe_mock_v2_e_lista_clientes/clientes.json:/data/clientes.json:ro
+
+  backend:
+    build: ./backend
+    ports:
+      - "3001:3001"
+    environment:
+      PORT: 3001
+      CLIENTES_API_URL: http://mock-clientes:3002/clientes
+      REDIS_URL: redis://redis:6379
+      DATABASE_PATH: /app/data/nfe.db
+    volumes:
+      - backend-data:/app/data
+    depends_on:
+      - redis
+      - mock-clientes
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend
+
+volumes:
+  backend-data:

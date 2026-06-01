@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000009123456789009</chave>
+
+  <emitente>
+    <nome>Fornecedor Gama</nome>
+    <cnpj>33333333000103</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Loja Independente</nome>
+    <cnpj>77777777000107</cnpj>
+  </destinatario>
+
+  <valorTotal>8868.61</valorTotal>
+  <dataEmissao>2026-05-10</dataEmissao>
+</nfe>

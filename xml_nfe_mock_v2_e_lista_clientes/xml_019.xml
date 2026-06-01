@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000019123456789019</chave>
+
+  <emitente>
+    <nome>Empresa XPTO</nome>
+    <cnpj>99887766000155</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Fornecedor Omega</nome>
+    <cnpj>55555555000105</cnpj>
+  </destinatario>
+
+  <valorTotal>3163.74</valorTotal>
+  <dataEmissao>2026-05-20</dataEmissao>
+</nfe>

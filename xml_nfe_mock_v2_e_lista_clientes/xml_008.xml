@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000008123456789008</chave>
+
+  <emitente>
+    <nome>Fornecedor Alpha</nome>
+    <cnpj>11111111000101</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Fornecedor Gama</nome>
+    <cnpj>33333333000103</cnpj>
+  </destinatario>
+
+  <valorTotal>7921.51</valorTotal>
+  <dataEmissao>2026-05-09</dataEmissao>
+</nfe>

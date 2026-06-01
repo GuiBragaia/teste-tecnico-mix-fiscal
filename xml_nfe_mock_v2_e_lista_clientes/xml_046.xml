@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000046123456789046</chave>
+
+  <emitente>
+    <nome>Fornecedor Beta</nome>
+    <cnpj>22222222000102</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Empresa XPTO</nome>
+    <cnpj>99887766000155</cnpj>
+  </destinatario>
+
+  <valorTotal>5124.70</valorTotal>
+  <dataEmissao>2026-05-19</dataEmissao>
+</nfe>

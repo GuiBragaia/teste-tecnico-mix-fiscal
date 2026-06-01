@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000002123456789002</chave>
+
+  <emitente>
+    <nome>Fornecedor Gama</nome>
+    <cnpj>33333333000103</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Comercial Nova Era</nome>
+    <cnpj>85296374000120</cnpj>
+  </destinatario>
+
+  <valorTotal>450.34</valorTotal>
+  <dataEmissao>2026-05-03</dataEmissao>
+</nfe>

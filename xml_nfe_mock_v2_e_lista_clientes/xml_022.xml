@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000022123456789022</chave>
+
+  <emitente>
+    <nome>Fornecedor Gama</nome>
+    <cnpj>33333333000103</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Empresa ABC</nome>
+    <cnpj>12345678000199</cnpj>
+  </destinatario>
+
+  <valorTotal>1416.07</valorTotal>
+  <dataEmissao>2026-05-23</dataEmissao>
+</nfe>

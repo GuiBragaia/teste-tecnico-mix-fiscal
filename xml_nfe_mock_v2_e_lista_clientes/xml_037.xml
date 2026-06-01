@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000037123456789037</chave>
+
+  <emitente>
+    <nome>Empresa ABC</nome>
+    <cnpj>12345678000199</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Fornecedor Beta</nome>
+    <cnpj>22222222000102</cnpj>
+  </destinatario>
+
+  <valorTotal>5896.20</valorTotal>
+  <dataEmissao>2026-05-10</dataEmissao>
+</nfe>

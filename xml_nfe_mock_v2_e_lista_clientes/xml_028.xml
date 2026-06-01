@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000028123456789028</chave>
+
+  <emitente>
+    <nome>Fornecedor Delta</nome>
+    <cnpj>44444444000104</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Comércio Brasil</nome>
+    <cnpj>88888888000108</cnpj>
+  </destinatario>
+
+  <valorTotal>4864.62</valorTotal>
+  <dataEmissao>2026-05-01</dataEmissao>
+</nfe>

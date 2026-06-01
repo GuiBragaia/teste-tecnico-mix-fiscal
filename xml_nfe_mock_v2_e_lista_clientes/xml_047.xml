@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000047123456789047</chave>
+
+  <emitente>
+    <nome>Comércio Brasil</nome>
+    <cnpj>88888888000108</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Tech Solutions LTDA</nome>
+    <cnpj>74185296000110</cnpj>
+  </destinatario>
+
+  <valorTotal>6399.29</valorTotal>
+  <dataEmissao>2026-05-20</dataEmissao>
+</nfe>

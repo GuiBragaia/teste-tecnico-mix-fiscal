@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000016123456789016</chave>
+
+  <emitente>
+    <nome>Fornecedor Delta</nome>
+    <cnpj>44444444000104</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Loja Independente</nome>
+    <cnpj>77777777000107</cnpj>
+  </destinatario>
+
+  <valorTotal>523.59</valorTotal>
+  <dataEmissao>2026-05-17</dataEmissao>
+</nfe>

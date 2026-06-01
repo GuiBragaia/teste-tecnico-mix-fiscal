@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000030123456789030</chave>
+
+  <emitente>
+    <nome>Loja Independente</nome>
+    <cnpj>77777777000107</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Empresa XPTO</nome>
+    <cnpj>99887766000155</cnpj>
+  </destinatario>
+
+  <valorTotal>7162.24</valorTotal>
+  <dataEmissao>2026-05-03</dataEmissao>
+</nfe>

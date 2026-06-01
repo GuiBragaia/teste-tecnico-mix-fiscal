@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000020123456789020</chave>
+
+  <emitente>
+    <nome>Empresa XPTO</nome>
+    <cnpj>99887766000155</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Fornecedor Delta</nome>
+    <cnpj>44444444000104</cnpj>
+  </destinatario>
+
+  <valorTotal>9703.99</valorTotal>
+  <dataEmissao>2026-05-21</dataEmissao>
+</nfe>

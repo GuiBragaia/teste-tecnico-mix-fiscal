@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000042123456789042</chave>
+
+  <emitente>
+    <nome>Fornecedor Delta</nome>
+    <cnpj>44444444000104</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Fornecedor Alpha</nome>
+    <cnpj>11111111000101</cnpj>
+  </destinatario>
+
+  <valorTotal>728.74</valorTotal>
+  <dataEmissao>2026-05-15</dataEmissao>
+</nfe>

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "nome": "Empresa ABC",
+    "cnpj": "12345678000199"
+  },
+  {
+    "id": 2,
+    "nome": "Empresa XPTO",
+    "cnpj": "99887766000155"
+  },
+  {
+    "id": 3,
+    "nome": "Tech Solutions LTDA",
+    "cnpj": "74185296000110"
+  },
+  {
+    "id": 4,
+    "nome": "Comercial Nova Era",
+    "cnpj": "85296374000120"
+  },
+  {
+    "id": 5,
+    "nome": "Distribuidora São Lucas",
+    "cnpj": "96325874000130"
+  }
+]

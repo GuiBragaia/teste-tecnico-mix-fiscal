@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000007123456789007</chave>
+
+  <emitente>
+    <nome>Comércio Brasil</nome>
+    <cnpj>88888888000108</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Comercial Nova Era</nome>
+    <cnpj>85296374000120</cnpj>
+  </destinatario>
+
+  <valorTotal>672.57</valorTotal>
+  <dataEmissao>2026-05-08</dataEmissao>
+</nfe>

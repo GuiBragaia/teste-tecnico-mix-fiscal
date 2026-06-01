@@ -1,0 +1,16 @@
+<nfe>
+  <chave>35260500000000000100010000000018123456789018</chave>
+
+  <emitente>
+    <nome>Loja Independente</nome>
+    <cnpj>77777777000107</cnpj>
+  </emitente>
+
+  <destinatario>
+    <nome>Distribuidora São Lucas</nome>
+    <cnpj>96325874000130</cnpj>
+  </destinatario>
+
+  <valorTotal>2449.18</valorTotal>
+  <dataEmissao>2026-05-19</dataEmissao>
+</nfe>
